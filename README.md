@@ -183,14 +183,7 @@ Painéis administrativos focados em organização, métricas e gerenciamento de 
 
 React TypeScript Supabase
 
-📈 Estatísticas do GitHub
-<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielCarvalhop&show_icons=true&hide_border=true&theme=github_dark&locale=pt-br" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCarvalhop&layout=compact&hide_border=true&theme=github_dark" />
-
-</div>
 🛠️ Minha abordagem
 
 Gosto de transformar problemas reais em soluções digitais.
